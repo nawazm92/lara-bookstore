@@ -10,6 +10,7 @@ Laravel based simple bookstore app
 
 # Usage
 For web - Register / Login to manage books
+
 For REST API, use Postman OR Advanced REST Client (Chrome Extenstions) to test
 
 Note: REST API required HTTP Basic Authentication, so all your api routes needs Authorization header like following
